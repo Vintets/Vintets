@@ -1,6 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://vintets.ru/" target="_blank">Vintets</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">An ordinary person from Russia who loves automation 🇷🇺</h3>
+
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%232D9ECF&size=22&center=true&lines=I+fly+where+I+want+...)
 
 > Love to help people
@@ -35,8 +36,7 @@ ____
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&hide=issues&theme=tokyonight)
 
-![Metrics](https://metrics.lecoq.io/Vintets?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&isocalendar.duration=full-year&config.timezone=Europe%2FMoscow)
-
+![Metrics](https://metrics.lecoq.io/Vintets?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.details=bytes-size%2C%20percentage%2C%20lines&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Europe%2FMoscow)
 
 
 
