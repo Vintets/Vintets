@@ -6,11 +6,6 @@
 
 > I do like automation 🤖
 
-## Github
-![](https://komarev.com/ghpvc/?username=Vintets)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&hide=issues&theme=tokyonight)
-
 ____
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -31,6 +26,17 @@ ____
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
 [![codewars](https://www.codewars.com/users/Vintets/badges/large)](https://www.codewars.com/users/Vintets)
+
+____
+
+## Github
+![](https://komarev.com/ghpvc/?username=Vintets)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&hide=issues&theme=tokyonight)
+
+
+
+
 
 
 
