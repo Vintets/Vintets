@@ -3,10 +3,14 @@
 <h3 align="center">An ordinary person from Russia who loves automation 🇷🇺</h3>
 
 > Love to help people
+
 > I do like automation 🤖
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&theme=tokyonight)
+
+____
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,9 +30,7 @@
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/Vintets)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true&show_icons=true&theme=radical)
+[![codewars](https://www.codewars.com/users/Vintets/badges/large)](https://www.codewars.com/users/Vintets)
 
 
 
