@@ -9,7 +9,7 @@
 ## Github
 ![](https://komarev.com/ghpvc/?username=Vintets)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&hide=issues&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vintets&layout=compact)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vintets&count_private=true&show_icons=true&hide=issues&theme=tokyonight)
 
 ____
 
