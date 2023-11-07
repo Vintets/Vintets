@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            573 Commits
+                            577 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -114,11 +114,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.91667658796916" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="438.91667658796916" y="0" width="17.755797922910617" height="8" fill="#1C3552"/>
-                    <rect mask="url(#languages-bar)" x="456.6724745108798" y="0" width="1.7996449036425846" height="8" fill="#0000cc"/>
-                    <rect mask="url(#languages-bar)" x="458.47211941452235" y="0" width="1.1084872860665227" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="459.5806067005889" y="0" width="0.419393299411106" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="438.91991374105066" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="438.91991374105066" y="0" width="17.753071681186924" height="8" fill="#1C3552"/>
+                    <rect mask="url(#languages-bar)" x="456.67298542223756" y="0" width="1.799368584490641" height="8" fill="#0000cc"/>
+                    <rect mask="url(#languages-bar)" x="458.47235400672815" y="0" width="1.1083170878978694" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.58067109462604" y="0" width="0.4193289053739325" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -130,7 +130,7 @@
                                 Python
                             </div>
                             <small>
-                                <div>2.76 MB</div>
+                                <div>2.77 MB</div>
                                 <div>95.42%</div>
                             </small>
                         </div>
